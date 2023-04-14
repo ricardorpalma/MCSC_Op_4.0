@@ -17,7 +17,7 @@
 ## Capítulo I
 Medición del Desempeño de Cadenas de Suministros
 
-![Link](Cap_1)
+[Link](Cap_1)
 
 
 ## Capítulo II
