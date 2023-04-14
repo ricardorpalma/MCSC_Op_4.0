@@ -17,26 +17,28 @@
 ## Capítulo I
 Medición del Desempeño de Cadenas de Suministros
 
-link
+![Link](Cap_1)
+
 
 ## Capítulo II
 Metodología de la investigación en ingeniería de producción y gestión de operaciones
 
 
+![Link](Cap_2)
 
-link
 
 ## Capítulo III
 Pocesos Escenciales para SCM
-link
+
+![Link](Cap_3)
 
 ## Capítulo IV
 Casos de Estudio
 
-link
+![Link](Cap_4)
 
 ## Capítulo V
 Herramientas para la comunicación científica y formulación del trabajo final
 
 
-link
+![Link](Cap_5)
