@@ -13,7 +13,9 @@
 
 # Conectividad
 
-![Link](Actividad_Sincronica)
+[Link](Actividad_Sincronica)
+
+<hr>
 
 # Materiales del Curso / Materiais do curso
 
