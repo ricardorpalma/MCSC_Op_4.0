@@ -1,7 +1,7 @@
 **Prueba de Cámaras y Micrófonos**
 
 Utiliza el link para verificar la calidad de tu enlace.
-![Link](https://www.youtube.com/watch?v=Csk0pAPB5wI)
+[Link](https://www.youtube.com/watch?v=Csk0pAPB5wI)
 
 **Reunión recurrente de zoom**
 
