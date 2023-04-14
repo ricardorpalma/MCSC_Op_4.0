@@ -6,7 +6,9 @@
 -  Federal University of Goiás Operations Management, Sustainability & Solidary Economy
 -  Institut of Industrial Engineer - National University of Cuyo
 <hr>
+
 ![AUGM](logo-augm.jpg)
+
 <hr>
 # Materiales del Curso / Materiais do curso
 
