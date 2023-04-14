@@ -10,6 +10,11 @@
 ![AUGM](logo-augm.jpg)
 
 <hr>
+
+# Conectividad
+
+![Link](Actividad_Sincronica)
+
 # Materiales del Curso / Materiais do curso
 
 ![Flyer](flyer.png)
