@@ -13,7 +13,7 @@
 
 # Conectividad
 
-[Link](Actividad_Sincronica)
+[Link](Actividad_Sincrónica)
 
 <hr>
 
