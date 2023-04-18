@@ -12,7 +12,7 @@
 <hr>
 
 # Conectividad
-Materliales en youtube y actividades asincrónicas
+Materiales en youtube y actividades asincrónicas
  [Link](Actividad_Sincrónica)
 <p>
 > Sala de para todas las clases del 17 al 21 de Abril
@@ -74,3 +74,10 @@ Herramientas para la comunicación científica y formulación del trabajo final
 - @ricardorpalma
 
 <hr>
+
+Alumnos:
+
+- ESPOSITO Maria Fernanda (Arg)
+- LOPEZ LASTRA Leopoldo (Chi)
+- 
+
