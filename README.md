@@ -30,7 +30,7 @@ Código de acceso: 251427
 ![Flyer](flyer.png)
 
 <hr>
-![programação](agenda.jpeg)
+![programação](agenda.png)
 
 <hr>
 
