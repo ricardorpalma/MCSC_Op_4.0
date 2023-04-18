@@ -15,6 +15,14 @@
 
 [Link](Actividad_Sincrónica)
 
+Sala de [Zoom](https://us06web.zoom.us/j/3126711049?pwd=cWdvSUx1bTY4UTU4c0xjZUt5STZvUT09) para todas las clases del 17 al 21 de Abril
+
+
+https://us06web.zoom.us/j/3126711049?pwd=cWdvSUx1bTY4UTU4c0xjZUt5STZvUT09
+
+ID de reunión: 312 671 1049
+Código de acceso: 251427
+
 <hr>
 
 # Materiales del Curso / Materiais do curso
