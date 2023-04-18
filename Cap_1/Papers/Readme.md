@@ -13,6 +13,6 @@ Supply + Chain + Performance - SCOR
 
 [Bases json Seatle](seattle.xml)
 
-[Bases Logistics Breakdonw](serverfault.xlsx)
+[Bases Logistics Breakdown](serverfault.xlsx)
 
 
