@@ -29,6 +29,11 @@ Código de acceso: 251427
 
 ![Flyer](flyer.png)
 
+<hr>
+![programação](agenda.jpeg)
+
+<hr>
+
 ## Capítulo I
 Medición del Desempeño de Cadenas de Suministros
 
