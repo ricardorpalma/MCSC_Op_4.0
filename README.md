@@ -63,3 +63,14 @@ Herramientas para la comunicación científica y formulación del trabajo final
 
 
 [Link](Cap_5)
+
+
+<hr>
+
+## Colaboradores (Profesores)
+
+- @MaicoRorisSeverino
+- @ramartins
+- @ricardorpalma
+
+<hr>
