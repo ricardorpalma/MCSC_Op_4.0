@@ -12,10 +12,10 @@
 <hr>
 
 # Conectividad
-
-[Link](Actividad_Sincrónica)
-
-Sala de [Zoom](https://us06web.zoom.us/j/3126711049?pwd=cWdvSUx1bTY4UTU4c0xjZUt5STZvUT09) para todas las clases del 17 al 21 de Abril
+Materliales en youtube y actividades asincrónicas
+ [Link](Actividad_Sincrónica)
+<p>
+> Sala de para todas las clases del 17 al 21 de Abril
 
 
 https://us06web.zoom.us/j/3126711049?pwd=cWdvSUx1bTY4UTU4c0xjZUt5STZvUT09
