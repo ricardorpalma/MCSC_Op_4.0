@@ -83,14 +83,14 @@ Herramientas para la comunicación científica y formulación del trabajo final
 - NIEZWIDA Sonia Romina (Arg) 
 - AMBRUSTOLO Mariela Beatriz (Arg)
 - ATENCIO Marcos José (Arg)
-- BERARDI María Betina (Arg)
+- * BERARDI María Betina (Arg)
 - CAJAMARCA CARRAZCO Diego Ivan (Ecu)
 - ESTEBAN Alejandra María (Arg)
-- MIGUELES Marina Alejandra (Arg)
+- * MIGUELES Marina Alejandra (Arg)
 - NOVILLO VILLEGAS Sylvia Mercedes (Ecu) sylvia.novillo@gmail.com
 - QUEMEL PIRES Renata (Bra) dequemel@yahoo.com.br
 - TORRES GÓMEZ Luis Patricio (Chi) ptazul2010@gmail.com
-- VANELLA Marcelo Federico (Arg)
+- * VANELLA Marcelo Federico (Arg)
 - ZÁRATE Claudia Noemí (Arg) cnzarate@gmail.com
 - Joao Paulo Lopes Machado (Bra) joaopaulolm@ufg.br 
 -	Juliana Rasmussen Cardoso (Bra) jrasmussen@ufg.br
