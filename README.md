@@ -49,7 +49,7 @@ Metodología de la investigación en ingeniería de producción y gestión de op
 
 
 ## Capítulo III
-Pocesos Escenciales para SCM
+Procesos Escenciales para SCM
 
 [Link](Cap_3)
 
