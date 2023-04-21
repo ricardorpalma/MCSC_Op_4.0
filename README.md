@@ -82,7 +82,7 @@ Herramientas para la comunicación científica y formulación del trabajo final
 - MONGE GARCIA Marcelo G.(Ecu) marcelomg@live.com
 - NIEZWIDA Sonia Romina (Arg) 
 - AMBRUSTOLO Mariela Beatriz (Arg)
-- ATENCIO Marcos José (Arg)
+- ATENCIO Marcos José (Arg) marcos.atencio@mi.unc.edu.ar 
 - * BERARDI María Betina (Arg)
 - CAJAMARCA CARRAZCO Diego Ivan (Ecu)
 - ESTEBAN Alejandra María (Arg)
