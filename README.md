@@ -89,7 +89,7 @@ Herramientas para la comunicación científica y formulación del trabajo final
 - * MIGUELES Marina Alejandra (Arg)
 - NOVILLO VILLEGAS Sylvia Mercedes (Ecu) sylvia.novillo@gmail.com
 - QUEMEL PIRES Renata (Bra) dequemel@yahoo.com.br
-- TORRES GÓMEZ Luis Patricio (Chi) ptazul2010@gmail.com
+- TORRES GÓMEZ Luis Patricio (Chi) ptazul2010@gmail.com **Industria Forestal**
 - * VANELLA Marcelo Federico (Arg)
 - ZÁRATE Claudia Noemí (Arg) cnzarate@gmail.com
 - Joao Paulo Lopes Machado (Bra) joaopaulolm@ufg.br 
@@ -107,3 +107,5 @@ Herramientas para la comunicación científica y formulación del trabajo final
 -	Grazyelle Costa da Silva Oliveira (Bra) grazyellecosta@discente.ufg.br 
 -	Laura Luiza Silva Lima (Bra) lauralima@discente.ufg.br
 
+# Grupo 1
+Patricio Torres
