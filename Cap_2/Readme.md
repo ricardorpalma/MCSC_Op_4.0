@@ -11,4 +11,5 @@ Material de lectura:
 Metodologia De Pesquisa Em Engenharia De Produção (2012)-Cap1.pdf - Autor Roberto Martins subido 17 Abril 10:03 hs
 
 Slides de clase:
+
 Archivo "Aula01-UNCuyo.PDF" disponible - Autor Roberto Martins subido 25 Abril 17:00 hs
